@@ -1,8 +1,8 @@
-# moita2025-mclib.github.io
+# moita2025.github.io/mclib/
 
 ## English
 
-Welcome to the **moita2025-mclib** repository! This repository contains Minecraft-related assets, including block and item icons, images, and JSON data. These resources are provided solely for personal use, non-commercial purposes, and non-official sharing within the Minecraft community.
+Welcome to the **moita2025/mclib** repository! This repository contains Minecraft-related assets, including block and item icons, images, and JSON data. These resources are provided solely for personal use, non-commercial purposes, and non-official sharing within the Minecraft community.
 
 **Important Notes:**
 
@@ -18,7 +18,7 @@ Enjoy exploring and sharing Minecraft assets!
 
 ## 中文
 
-欢迎来到 **moita2025-mclib** 仓库！这个仓库包含与 Minecraft 相关的资源，包括方块和物品图标、图片和 JSON 数据。这些资源仅供个人使用、非商业用途，并用于在 Minecraft 社区内的非官方分享。
+欢迎来到 **moita2025/mclib** 仓库！这个仓库包含与 Minecraft 相关的资源，包括方块和物品图标、图片和 JSON 数据。这些资源仅供个人使用、非商业用途，并用于在 Minecraft 社区内的非官方分享。
 
 **重要说明：**
 
