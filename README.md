@@ -12,6 +12,8 @@ Welcome to the **moita2025/mclib** repository! This repository contains Minecraf
 
 If you use these assets in any project, please make sure to credit the original work appropriately and make it clear that the content is community-created and **not official**.
 
+Some of the icons in this repository are sourced from the **Chinese Minecraft Wiki**, which is licensed under the **CC BY-NC-SA 3.0 License**. You can find more details about the license here: [https://creativecommons.org/licenses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
 Enjoy exploring and sharing Minecraft assets!
 
 ---
@@ -26,7 +28,8 @@ Enjoy exploring and sharing Minecraft assets!
 * 所有内容仅供个人使用，**不得用于商业用途**。
 * 请不要以任何可能让人误解为官方或受到 Mojang/Microsoft 支持的方式重新分发这些资源。
 
+部分图标来自 **中文 Minecraft Wiki**，该网站的内容采用 **CC BY-NC-SA 3.0 授权协议**。详细信息请访问：[https://creativecommons.org/licenses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/)。
+
 如果你在任何项目中使用这些资源，请确保适当注明原作，并明确说明该内容是由社区创建的，**非官方**。
 
 希望你能享受探索和分享 Minecraft 资源的乐趣！
-
