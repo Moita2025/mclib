@@ -396,18 +396,6 @@
         "srcName": "bedrock.png"
     },
     {
-        "chineseName": "流动水",
-        "englishName": "Flowing Water",
-        "version": "JE1.0-1.12",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:flowing_water"
-            }
-        ],
-        "srcName": "flowing_water.png"
-    },
-    {
         "chineseName": "水",
         "englishName": "Water",
         "version": "JE1.0",
@@ -418,18 +406,6 @@
             }
         ],
         "srcName": "water.png"
-    },
-    {
-        "chineseName": "流动熔岩",
-        "englishName": "Flowing Lava",
-        "version": "JE1.0-1.12",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:flowing_lava"
-            }
-        ],
-        "srcName": "flowing_lava.png"
     },
     {
         "chineseName": "熔岩",
@@ -1260,22 +1236,6 @@
         "srcName": "black_wool.png"
     },
     {
-        "chineseName": "移动的活塞",
-        "englishName": "Moving Piston",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:piston_extension"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:moving_piston"
-            }
-        ],
-        "srcName": "moving_piston.png"
-    },
-    {
         "chineseName": "蒲公英",
         "englishName": "Dandelion",
         "version": "JE1.0",
@@ -1482,138 +1442,6 @@
             }
         ],
         "srcName": "iron_block.png"
-    },
-    {
-        "chineseName": "双层石台阶",
-        "englishName": "Double Stone Slab",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:stone_slab[type=double]"
-            },
-            {
-                "idSupportedVersion": "1.14+",
-                "englishId": "minecraft:smooth_stone_slab[type=double]"
-            }
-        ],
-        "srcName": "smooth_stone_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层砂岩台阶",
-        "englishName": "Double Sandstone Slab",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:sandstone_slab[type=double]"
-            }
-        ],
-        "srcName": "sandstone_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层木台阶",
-        "englishName": "Double Wooden Slab",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:petrified_oak_slab[type=double]"
-            }
-        ],
-        "srcName": "petrified_oak_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层圆石台阶",
-        "englishName": "Double Cobblestone Slab",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:cobblestone_slab[type=double]"
-            }
-        ],
-        "srcName": "cobblestone_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层砖台阶",
-        "englishName": "Double Brick Slab",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:brick_slab[type=double]"
-            }
-        ],
-        "srcName": "brick_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层石砖台阶",
-        "englishName": "Double Stone Brick Slab",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:stone_brick_slab[type=double]"
-            }
-        ],
-        "srcName": "stone_brick_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层地狱砖台阶",
-        "englishName": "Double Nether Brick Slab",
-        "version": "JE1.4",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:nether_brick_slab[type=double]"
-            }
-        ],
-        "srcName": "nether_brick_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层石英台阶",
-        "englishName": "Double Quartz Slab",
-        "version": "JE1.5",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_stone_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:quartz_slab[type=double]"
-            }
-        ],
-        "srcName": "quartz_slab[type=double].png"
     },
     {
         "chineseName": "平滑石头",
@@ -2174,22 +2002,6 @@
             }
         ],
         "srcName": "redstone_ore.png"
-    },
-    {
-        "chineseName": "点亮的红石矿石",
-        "englishName": "Lit Redstone Ore",
-        "version": "JE1.0",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:lit_redstone_ore"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:redstone_ore[lit=true]"
-            }
-        ],
-        "srcName": "redstone_ore[lit=true].png"
     },
     {
         "chineseName": "熄灭的红石火把",
@@ -3294,102 +3106,6 @@
             }
         ],
         "srcName": "redstone_lamp[lit=true].png"
-    },
-    {
-        "chineseName": "双层橡木台阶",
-        "englishName": "Double Oak Slab",
-        "version": "JE1.3",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_wooden_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:oak_slab[type=double]"
-            }
-        ],
-        "srcName": "oak_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层云杉木台阶",
-        "englishName": "Double Spruce Slab",
-        "version": "JE1.3",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_wooden_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:spruce_slab[type=double]"
-            }
-        ],
-        "srcName": "spruce_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层桦木台阶",
-        "englishName": "Double Birch Slab",
-        "version": "JE1.3",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_wooden_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:birch_slab[type=double]"
-            }
-        ],
-        "srcName": "birch_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层丛林木台阶",
-        "englishName": "Double Jungle Slab",
-        "version": "JE1.3",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_wooden_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:jungle_slab[type=double]"
-            }
-        ],
-        "srcName": "jungle_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层金合欢木台阶",
-        "englishName": "Double Acacia Slab",
-        "version": "JE1.7",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_wooden_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:acacia_slab[type=double]"
-            }
-        ],
-        "srcName": "acacia_slab[type=double].png"
-    },
-    {
-        "chineseName": "双层深色橡木台阶",
-        "englishName": "Double Dark Oak Slab",
-        "version": "JE1.7",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.7+",
-                "englishId": "minecraft:double_wooden_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:dark_oak_slab[type=double]"
-            }
-        ],
-        "srcName": "dark_oak_slab[type=double].png"
     },
     {
         "chineseName": "橡木台阶",
@@ -5128,30 +4844,6 @@
         "srcName": "peony.png"
     },
     {
-        "chineseName": "站立的旗帜",
-        "englishName": "Standing Banner",
-        "version": "JE1.8-1.12",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.8+",
-                "englishId": "minecraft:standing_banner"
-            }
-        ],
-        "srcName": "standing_banner.png"
-    },
-    {
-        "chineseName": "墙上的旗帜",
-        "englishName": "Wall Banner",
-        "version": "JE1.8-1.12",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.8+",
-                "englishId": "minecraft:wall_banner"
-            }
-        ],
-        "srcName": "wall_banner.png"
-    },
-    {
         "chineseName": "反向阳光传感器",
         "englishName": "Daylight Detector Inverted",
         "version": "JE1.8",
@@ -5222,22 +4914,6 @@
             }
         ],
         "srcName": "red_sandstone_stairs.png"
-    },
-    {
-        "chineseName": "双层红砂岩台阶",
-        "englishName": "Double Red Sandstone Slab",
-        "version": "JE1.8",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.8+",
-                "englishId": "minecraft:double_stone_slab2"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:red_sandstone_slab[type=double]"
-            }
-        ],
-        "srcName": "red_sandstone_slab[type=double].png"
     },
     {
         "chineseName": "平滑红砂岩",
@@ -5522,22 +5198,6 @@
             }
         ],
         "srcName": "purpur_stairs.png"
-    },
-    {
-        "chineseName": "双层紫珀台阶",
-        "englishName": "Purpur Double Slab",
-        "version": "JE1.9",
-        "idDetails": [
-            {
-                "idSupportedVersion": "1.9+",
-                "englishId": "minecraft:purpur_double_slab"
-            },
-            {
-                "idSupportedVersion": "1.13+",
-                "englishId": "minecraft:purpur_slab[type=double]"
-            }
-        ],
-        "srcName": "purpur_slab[type=double].png"
     },
     {
         "chineseName": "紫珀台阶",
