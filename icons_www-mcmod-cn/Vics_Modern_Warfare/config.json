@@ -1,0 +1,200 @@
+[
+    {
+        "chineseName": "武器/盔甲工作台",
+        "englishName": "Weapons/Armor Workbench",
+        "type": "设备",
+        "srcName": "683908.png"
+    },
+    {
+        "chineseName": "弹药压缩机",
+        "englishName": "Ammo Press",
+        "type": "设备",
+        "srcName": "683909.png"
+    },
+    {
+        "chineseName": "硅矿石",
+        "englishName": "Silicon Ore",
+        "type": "矿石",
+        "srcName": "57585.png"
+    },
+    {
+        "chineseName": "石墨矿",
+        "englishName": "Graphite Ore",
+        "type": "矿石",
+        "srcName": "439707.png"
+    },
+    {
+        "chineseName": "钛矿石",
+        "englishName": "Titanium Ore",
+        "type": "矿石",
+        "srcName": "57556.png"
+    },
+    {
+        "chineseName": "钽矿石",
+        "englishName": "Tantalum Ore",
+        "type": "矿石",
+        "srcName": "57587.png"
+    },
+    {
+        "chineseName": "铅矿石",
+        "englishName": "Lead Ore",
+        "type": "矿石",
+        "srcName": "57881.png"
+    },
+    {
+        "chineseName": "铜矿石",
+        "englishName": "Copper Ore",
+        "type": "矿石",
+        "srcName": "49379.png"
+    },
+    {
+        "chineseName": "锡矿石",
+        "englishName": "Tin Ore",
+        "type": "矿石",
+        "srcName": "57883.png"
+    },
+    {
+        "chineseName": "硫磺矿石",
+        "englishName": "Sulfur Ore",
+        "type": "矿石",
+        "srcName": "57583.png"
+    },
+    {
+        "chineseName": "铝土矿石",
+        "englishName": "Bauxite Ore",
+        "type": "矿石",
+        "srcName": "49513.png"
+    },
+    {
+        "chineseName": "石墨块",
+        "englishName": "Graphite Chunk",
+        "type": "材料",
+        "srcName": "439706.png"
+    },
+    {
+        "chineseName": "碳复合材料",
+        "englishName": "Carbon Composite",
+        "type": "材料",
+        "srcName": "439708.png"
+    },
+    {
+        "chineseName": "人造聚合物复合材料",
+        "englishName": "Synthetic Polymer Composite",
+        "type": "材料",
+        "srcName": "439709.png"
+    },
+    {
+        "chineseName": "碳纤维",
+        "englishName": "Carbon Fiber",
+        "type": "材料",
+        "srcName": "439710.png"
+    },
+    {
+        "chineseName": "人造塑料",
+        "englishName": "Synthetic Plastic",
+        "type": "材料",
+        "srcName": "439711.png"
+    },
+    {
+        "chineseName": "塑料板",
+        "englishName": "Plastic Plate",
+        "type": "材料",
+        "srcName": "439712.png"
+    },
+    {
+        "chineseName": "枪械金属锭",
+        "englishName": "Gunmetal Ingot",
+        "type": "材料",
+        "srcName": "440094.png"
+    },
+    {
+        "chineseName": "枪械金属混合物",
+        "englishName": "Gunmetal Composite",
+        "type": "材料",
+        "srcName": "440095.png"
+    },
+    {
+        "chineseName": "枪械金属板",
+        "englishName": "Gunmetal Plate",
+        "type": "材料",
+        "srcName": "440096.png"
+    },
+    {
+        "chineseName": "硫磺粉",
+        "englishName": "Sulfur Dust",
+        "type": "材料",
+        "srcName": "57584.png"
+    },
+    {
+        "chineseName": "钢粉",
+        "englishName": "Steel Dust",
+        "type": "材料",
+        "srcName": "49377.png"
+    },
+    {
+        "chineseName": "小钢板",
+        "englishName": "Small Steel Plate",
+        "type": "材料",
+        "srcName": "51404.png"
+    },
+    {
+        "chineseName": "大钢板",
+        "englishName": "Big Steel Plate",
+        "type": "材料",
+        "srcName": "51405.png"
+    },
+    {
+        "chineseName": "铝合金板",
+        "englishName": "Aluminum Plate",
+        "type": "材料",
+        "srcName": "49518.png"
+    },
+    {
+        "chineseName": "钢锭",
+        "englishName": "Steel Ingot",
+        "type": "材料",
+        "srcName": "49378.png"
+    },
+    {
+        "chineseName": "钛锭",
+        "englishName": "Titanium Ingot",
+        "type": "材料",
+        "srcName": "57582.png"
+    },
+    {
+        "chineseName": "硅锭",
+        "englishName": "Silicon Ingot",
+        "type": "材料",
+        "srcName": "57586.png"
+    },
+    {
+        "chineseName": "钽锭",
+        "englishName": "Tantalum Ingot",
+        "type": "材料",
+        "srcName": "57895.png"
+    },
+    {
+        "chineseName": "铅锭",
+        "englishName": "Lead Ingot",
+        "type": "材料",
+        "srcName": "57893.png"
+    },
+    {
+        "chineseName": "铜锭",
+        "englishName": "Copper Ingot",
+        "type": "材料",
+        "srcName": "49409.png"
+    },
+    {
+        "chineseName": "锡锭",
+        "englishName": "Tin Ingot",
+        "type": "材料",
+        "srcName": "57894.png"
+    },
+    {
+        "chineseName": "铝锭",
+        "englishName": "Aluminum Ingot",
+        "type": "材料",
+        "srcName": "49514.png"
+    }
+]
